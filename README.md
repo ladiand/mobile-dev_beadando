@@ -1,0 +1,1 @@
+Tanulók adatainak tárolása
